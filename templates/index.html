@@ -1,0 +1,14 @@
+{{abe type="data" key="themes" source="select title, thumbnail, description, demo, download, author, homepage, license, license_link from /" editable="false"}}
+<!DOCTYPE html>
+<html>
+<head>
+  <title>New theme</title>
+</head>
+<body>
+{{#each themes}}
+  {{title}}
+  <img src="{{thumbnail}}" />
+  <p>{{description}}</p>
+{{/each}}
+</body>
+</html>

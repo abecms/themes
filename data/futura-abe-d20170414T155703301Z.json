@@ -1,0 +1,22 @@
+{
+  "abe_meta": {
+    "template": "theme",
+    "link": "/futura.html",
+    "date": "2017-04-14T15:57:03.301Z",
+    "latest": {
+      "date": "2017-04-14T15:57:03.301Z",
+      "abeUrl": "/futura-abe-d20170414T155703301Z.html"
+    },
+    "status": "draft",
+    "draft": {
+      "latest": {
+        "date": "2017-04-14T15:57:03.301Z",
+        "abeUrl": "/futura-abe-d20170414T155703301Z.html"
+      },
+      "date": "2017-04-14T15:57:03.301Z",
+      "abeUrl": "/futura-abe-d20170414T155703301Z.html"
+    },
+    "complete": "100"
+  },
+  "name": "futura"
+}

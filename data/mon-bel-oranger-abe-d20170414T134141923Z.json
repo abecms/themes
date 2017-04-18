@@ -1,0 +1,22 @@
+{
+  "abe_meta": {
+    "template": "theme",
+    "link": "/mon-bel-oranger.html",
+    "date": "2017-04-14T13:41:41.923Z",
+    "latest": {
+      "date": "2017-04-14T13:41:41.923Z",
+      "abeUrl": "/mon-bel-oranger-abe-d20170414T134141923Z.html"
+    },
+    "status": "draft",
+    "draft": {
+      "latest": {
+        "date": "2017-04-14T13:41:41.923Z",
+        "abeUrl": "/mon-bel-oranger-abe-d20170414T134141923Z.html"
+      },
+      "date": "2017-04-14T13:41:41.923Z",
+      "abeUrl": "/mon-bel-oranger-abe-d20170414T134141923Z.html"
+    },
+    "complete": "100"
+  },
+  "name": "mon-bel-oranger"
+}

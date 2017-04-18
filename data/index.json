@@ -1,0 +1,67 @@
+{
+  "abe_meta": {
+    "template": "index",
+    "link": "/index.html",
+    "date": "2017-04-14T14:43:45.425Z",
+    "latest": {
+      "date": "2017-04-14T14:43:51.595Z",
+      "abeUrl": "/index.html"
+    },
+    "status": "publish",
+    "draft": {
+      "latest": {
+        "date": "2017-04-14T14:43:45.425Z",
+        "abeUrl": "/index-abe-d20170414T144345425Z.html"
+      },
+      "date": "2017-04-14T14:43:45.425Z",
+      "abeUrl": "/index-abe-d20170414T144345425Z.html"
+    },
+    "complete": "100",
+    "cleanName": "index",
+    "cleanFilename": "",
+    "publish": {
+      "latest": {
+        "date": "2017-04-14T14:43:51.595Z",
+        "abeUrl": "/index.html"
+      },
+      "date": "2017-04-14T14:43:51.595Z",
+      "abeUrl": "/index.html"
+    }
+  },
+  "name": "index",
+  "themes": [
+    {
+      "name": "mon-bel-oranger.json",
+      "path": "/Users/grg/programmation/git/abethemes/data/mon-bel-oranger.json",
+      "cleanPath": "mon-bel-oranger.json",
+      "filePath": "mon-bel-oranger.json",
+      "date": "2017-04-14T14:43:30.828Z",
+      "cleanDate": "2017/04/14 16:43:30",
+      "duration": "a few seconds ago",
+      "cleanName": "mon-bel-oranger.json",
+      "parentRelativePath": "mon-bel-oranger.json",
+      "html": "/mon-bel-oranger.html",
+      "htmlPath": "/Users/grg/programmation/git/abethemes/site/mon-bel-oranger.html",
+      "abe_meta": {
+        "date": "2017-04-14T14:43:30.828Z",
+        "type": null,
+        "link": "/mon-bel-oranger.html",
+        "template": "theme",
+        "cleanName": "mon-bel-oranger",
+        "cleanFilename": "",
+        "status": "publish"
+      },
+      "title": "Greatest theme",
+      "thumbnail": "http://icons.iconarchive.com/icons/toma4025/tea/256/tea-plant-leaf-icon.png",
+      "description": "A beautiful theme",
+      "demo": "http://www.google.com",
+      "download": "https://github.com/wonknu/abe-themes-default/archive/master.zip",
+      "author": "Wonknu",
+      "homepage": "https://github.com/wonknu/abe-themes-default",
+      "license": "MIT",
+      "license_link": "https://github.com/wonknu/abe-themes-default/blob/master/LICENSE",
+      "link": "/mon-bel-oranger.html"
+    }
+  ],
+  "oldFilePath": "/index.html"
+}

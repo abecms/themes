@@ -1,0 +1,34 @@
+{
+  "abe_meta": {
+    "template": "theme",
+    "link": "/futura.html",
+    "date": "2017-04-14T15:57:03.301Z",
+    "latest": {
+      "date": "2017-04-14T15:59:38.554Z",
+      "abeUrl": "/futura-abe-d20170414T155938554Z.html"
+    },
+    "status": "draft",
+    "draft": {
+      "latest": {
+        "date": "2017-04-14T15:59:38.554Z",
+        "abeUrl": "/futura-abe-d20170414T155938554Z.html"
+      },
+      "date": "2017-04-14T15:57:03.301Z",
+      "abeUrl": "/futura-abe-d20170414T155703301Z.html"
+    },
+    "complete": "100",
+    "cleanName": "futura",
+    "cleanFilename": ""
+  },
+  "name": "futura",
+  "title": "Futura",
+  "thumbnail": "https://static-s.aa-cdn.net/img/gp/20600004733542/q_YHuh8pGsV_JREih9uWWjyAJ8NFDqQvt19CfGj5BZcfHeCI1JomU_YSNnyhrHFPe6M=w300?v=1",
+  "demo": "",
+  "download": "http://www.cucu.zip/toto.zip",
+  "author": "Bozo le clown",
+  "homepage": "http://www.google.fr",
+  "license": "MIT",
+  "license_link": "http://wwww.gg.com",
+  "oldFilePath": "/futura.html",
+  "description": "Ce theme vous permet d'être beau"
+}
