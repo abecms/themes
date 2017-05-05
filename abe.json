@@ -1,0 +1,10 @@
+{
+  "templates": {
+    "url": "themes/multiverse/templates"
+  },
+  "themes":{
+    "active": true,
+    "repository": "http://localhost:3001"
+  },
+  "partials": "themes/multiverse/partials"
+}
